@@ -80,3 +80,13 @@ Use these accounts to instantly test role-specific workflows (or log in directly
 | **Support Agent 1** | `agent1@customercare.com` | `agent123` |
 | **Support Agent 2** | `agent2@customercare.com` | `agent123` |
 | **Customer** | `customer@customercare.com` | `customer123` |
+
+
+<h1 align="center">🚀 Customer Registry Project Demo</h1>
+
+<h3 align="center">
+  <a href="https://drive.google.com/file/d/1kE_7jH6niZRaHNl7JWScvHIrAQdt_1e1/view?usp=sharing">
+     Watch the Complete Project Demonstration 
+  </a>
+</h3>
+
